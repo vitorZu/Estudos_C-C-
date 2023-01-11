@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+main()
+{
+	
+	int pato, cont;
+	
+	printf("Insira a quantidade de patinhos:\n");
+	scanf("%d",&pato);
+	
+	cont = pato;
+	
+	while (cont > 1)
+	{
+		printf("\n%d patinhos foram passear\nAlem das montanhas\nPara brincar,\n\
+A mamae gritou: Qua, qua, qua, qua\n\
+Mas so %d patinhos voltaram de la.\n",cont,cont-1);
+
+		cont--;
+	}
+	printf("\n1 patinho foi passear\n");
+    printf("Alem das montanhas\n");
+    printf("Para brincar\n");
+    printf("A mamae gritou: Qua, qua, qua, qua\n");
+    printf("Mas nenhum patinho voltou de la.\n\n");
+        
+    printf("\nA mamae patinha foi procurar\n");
+    printf("Alem das montanhas\n");
+    printf("Na beira do mar\n");
+    printf("A mamae gritou: Qua, qua, qua, qua\n");
+    printf("E os %d patinhos voltaram de la.\n", pato);
+    
+    
+	return 0;
+	
+}

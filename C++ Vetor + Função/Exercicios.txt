@@ -1,0 +1,9 @@
+(F)1. Elaborar um programa em C que lê um conjunto de N valores e os coloca em 2 vetores conforme estes valores forem pares ou ímpares. Ao final mostre os vetores resultantes e quantos elementos possui cada vetor.
+
+(F)2. Escreva um programa em C que leia e mostre um vetor de 20 números. A seguir, conte quantos valores pares existem no vetor.
+
+(F)3. Escreva um programa em C que leia um vetor de 20 posições e mostre- o. Em seguida, troque o primeiro elemento com o último, o segundo com o penúltimo, o terceiro com o antepenúltimo, e assim sucessivamente. Mostre o novo vetor depois da troca.
+
+(F)4. Escreva um programa em C que leia um vetor G de 10 elementos caracter que representa o gabarito de uma prova. A seguir, para cada um dos 50 alunos da turma, leia o vetor de respostas (R) do aluno e conte o número de acertos. Mostre o nº de acertos do aluno e uma mensagem APROVADO, se a nota for maior ou igual a 6; e mostre uma mensagem de REPROVADO, caso contrário.
+
+()5. Escrever um programa em C que lê um vetor K(15). Crie, a seguir, um vetor P, que contenha todos os números primos de K. Escreva o vetor P.
